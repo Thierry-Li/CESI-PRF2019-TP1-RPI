@@ -16,6 +16,12 @@ Projet dans le cadre d'une formation de reconversion professionnelle Analyste Pr
 Formation débutée le 21/10/19.<br>
 TP1 débuté le 25/10/19.<br>
 Soutenance de projet le 22/11/19.
+
+### Objectif futur du projet :
+> * refactoriser la structure de l'architecture logicielle
+> * passer le programme en Objet
+> * finir le programme
+> * gestion de base de données pour une historisation
 ___________
 #### Auteur
 Thierry Li
