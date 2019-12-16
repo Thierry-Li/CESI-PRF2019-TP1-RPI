@@ -1,0 +1,3 @@
+date et heure : 12/11/2019 16:18:30 / ID : 11161806 / temp : 24.900000000000002°C / batterie : 93% 
+date et heure : 12/11/2019 16:18:45 / ID : 11162855 / temp : 27.57°C / batterie : 88% 
+date et heure : 12/11/2019 16:18:45 / ID : 11161806 / temp : 24.900000000000002°C / batterie : 93% 
